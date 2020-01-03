@@ -11,6 +11,7 @@ const root = new Router();
 
 // Controllers.
 require('apps/api/controllers/user-controller')(root);
+require('apps/api/controllers/wallet-controller')(root);
 
 /**
  * Export `routers`.
