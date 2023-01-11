@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "app-module-path": "^2.2.0",
-    "knex": "^0.20.4",
+    "knex": "^2.4.0",
     "koa": "^2.6.2",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
